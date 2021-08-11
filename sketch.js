@@ -12,7 +12,7 @@ function preload(){
   boyImg = loadAnimation("Runner-1.png","Runner-2.png");
   maskImg = loadImage("mask.png");
   vaccineImg = loadImage("vaccine.png");
-  covidImg = loadImage("covid.png");
+  covidImg = loadImage("COVID.png");
   parkImg = loadImage("park.png")
   gameoverImg = loadImage("gameover.PNG");
 }
